@@ -1,0 +1,2 @@
+model_path: saved_model/rf_model.joblib
+data_path: dataset/diabetes_data.csv
